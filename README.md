@@ -1,5 +1,5 @@
 # flutter_mixed
-flutter page mixed with native page (iOS + Android)
+Flutter page mixed with native page (iOS + Android)
 
-The demo app contains the following examples:
+The demo contains the following styles:
 <img src="https://github.com/klarm/flutter_mixed/blob/master/demo.png"/>
